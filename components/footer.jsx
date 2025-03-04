@@ -64,7 +64,7 @@ export default function Footer() {
 
           <div>
             <h4 className="mb-4 text-sm font-semibold">Developer</h4>
-            <p className="mb-2 text-sm text-muted-foreground">Created by Your Name</p>
+            <p className="mb-2 text-sm text-muted-foreground">Created by UZAIF KHAN</p>
             <div className="flex space-x-4">
               <Link
                 href="https://instagram.com/yourusername"
@@ -76,7 +76,7 @@ export default function Footer() {
                 <span className="sr-only">Instagram</span>
               </Link>
               <Link
-                href="https://linkedin.com/in/yourusername"
+                href="https://linkedin.com/in/uzaif-khan2006"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary"
